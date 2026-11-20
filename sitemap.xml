@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://eyedeasinc.com/</loc>
     <lastmod>2026-11-20</lastmod>
+    <image:image><image:loc>https://eyedeasinc.com/assets/og-image.jpg</image:loc></image:image>
+    <image:image><image:loc>https://eyedeasinc.com/assets/img/victor-stage-cancun.jpg</image:loc></image:image>
+    <image:image><image:loc>https://eyedeasinc.com/assets/img/victor-headshot-fade.png</image:loc></image:image>
+    <image:image><image:loc>https://eyedeasinc.com/assets/img/studio-hero.jpg</image:loc></image:image>
+    <image:image><image:loc>https://eyedeasinc.com/assets/img/hero-labs-horizontal-dark-960.png</image:loc></image:image>
+    <image:image><image:loc>https://eyedeasinc.com/assets/img/book-cover.png</image:loc></image:image>
+    <image:image><image:loc>https://eyedeasinc.com/assets/img/kit/02-network-view.jpg</image:loc></image:image>
+    <image:image><image:loc>https://eyedeasinc.com/assets/img/kit/03-relationship-health.jpg</image:loc></image:image>
+    <image:image><image:loc>https://eyedeasinc.com/assets/img/kit/ev-app.jpg</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://eyedeasinc.com/assets/video/zava-poster.jpg</video:thumbnail_loc>
+      <video:title>A model-driven Power Platform app built by an AI agent</video:title>
+      <video:description>Two minute time-lapse of a 33 minute agent build: Dataverse tables, sample data, a model-driven app and two generative pages, built with the Power Platform skills in GitHub Copilot and Claude Code.</video:description>
+      <video:content_loc>https://eyedeasinc.com/assets/video/zava-build.mp4</video:content_loc>
+      <video:duration>141</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
 </urlset>
